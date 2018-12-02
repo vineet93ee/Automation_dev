@@ -95,7 +95,6 @@
 			"settings":
 			{
 				"buffer_size": 16,
-				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "for x in"
 			}
@@ -189,6 +188,10 @@
 	},
 	"file_history":
 	[
+		"/C/Program Files (x86)/Jenkins/users/vineet93ee/config.xml",
+		"/C/Users/Vineet Sharma/Downloads/apache-tomcat-8.5.35/apache-tomcat-8.5.35/conf/server.xml",
+		"/C/Users/Vineet Sharma/Downloads/apache-tomcat-8.5.35/apache-tomcat-8.5.35/conf/tomcat-users.xml",
+		"/C/Users/Vineet Sharma/Downloads/apache-tomcat-8.5.35/apache-tomcat-8.5.35/conf/tomcat-users.xsd",
 		"/C/Users/Vineet Sharma/Desktop/dev/hello.py",
 		"/C/Users/Vineet Sharma/Desktop/dev/hello"
 	],
