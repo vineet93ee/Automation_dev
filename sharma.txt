@@ -1,0 +1,6 @@
+demo.py       hello				     New\ Text\ Document.txt
+demo1.py      hello.py				     sharma.txt
+func.py       hello.sublime-workspace		     test.py
+function      lookup.txt			     test1.py
+function.py   New\ Microsoft\ Excel\ Worksheet.xlsm  text1
+function2.py  New\ Microsoft\ Excel\ Worksheet.xlsx
